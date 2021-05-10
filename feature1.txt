@@ -1,2 +1,3 @@
-new file added on feature1 branch - after creating feature2 branch
 
+new file added on feature1 branch - after creating feature2 branch
+conflict solved
